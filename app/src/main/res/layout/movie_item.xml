@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/marginMedium"
+    app:cardCornerRadius="@dimen/cardCorner"
+    app:cardElevation="@dimen/cardCorner"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/imageview_banner"
+        android:layout_margin="@dimen/cardCorner"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"/>
+</androidx.cardview.widget.CardView>

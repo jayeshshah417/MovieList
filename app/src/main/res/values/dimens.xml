@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCorner">5dp</dimen>
+    <dimen name="cardCorner_Medium">10dp</dimen>
+    <dimen name="marginMedium">10dp</dimen>
+
+    <dimen name="text_small">12dp</dimen>
+    <dimen name="text_medium">16dp</dimen>
+    <dimen name="text_large">18dp</dimen>
+    <dimen name="text_xlarge">20dp</dimen>
+    <dimen name="text_xxlarge">22dp</dimen>
+</resources>
